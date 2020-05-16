@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 305916155
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 498b726224a52c9f94b1d4ad42217a4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 43f5e3e81986906d4843325600761f1c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b14c62dddf08524f8240d0c4a1f6c53, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61ee230f5e27ad546ae1d61827b4edb8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/myProject/New Folder/olxt.prefab
+- Assets/myProject/New Folder/opyh.prefab
+- Assets/myProject/New Folder/oczxt.prefab
+- Assets/myProject/New Folder/ojjq.prefab
+- Assets/myProject/New Folder/ojxyh.prefab
+Dependencies: []

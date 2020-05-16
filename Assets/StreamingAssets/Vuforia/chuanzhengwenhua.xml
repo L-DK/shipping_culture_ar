@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="bwg" size="0.063000 0.075570" />
+    <ImageTarget name="zzt" size="0.061000 0.073190" />
+    <ImageTarget name="zty" size="0.061000 0.073190" />
+    <ImageTarget name="yf" size="0.061000 0.073190" />
+    <ImageTarget name="mal" size="0.061000 0.073190" />
+    <ImageTarget name="jqxyj" size="0.061000 0.073190" />
+    <ImageTarget name="hsy" size="0.061000 0.073190" />
+    <ImageTarget name="gshc" size="0.061000 0.073190" />
+    <ImageTarget name="dsc" size="0.061000 0.073190" />
+    <ImageTarget name="amstl" size="0.061000 0.073190" />
+    <ImageTarget name="czxt" size="0.063000 0.075589" />
+    <ImageTarget name="sbz" size="0.061000 0.073190" />
+    <ImageTarget name="jxyh" size="0.063000 0.075589" />
+    <ImageTarget name="lxt" size="0.063000 0.075589" />
+    <ImageTarget name="xmdx" size="0.063000 0.075589" />
+    <ImageTarget name="pyh" size="0.063000 0.075589" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3682037280
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: demo.u3d
+      Dependencies: {}
